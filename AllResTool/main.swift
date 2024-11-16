@@ -24,7 +24,7 @@ import Foundation
 import CoreGraphics
 import AppKit
 
-print("AllResTool v1.0\n")
+print("AllResTool v1.1\n")
 
 let maxDisplays: UInt32 = 64
 var onlineDisplays: [CGDirectDisplayID] = .init(repeating: 0, count: Int(maxDisplays))
